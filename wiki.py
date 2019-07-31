@@ -5,4 +5,4 @@ while 1:
         wikipedia.set_lang("en")
         print(wikipedia.summary(user, sentences=2))
     except:
-        print("oops!.... cant find what you want try something else")
+        print("OOPS!.... I cant find what you want! Try something else.")
